@@ -10,6 +10,6 @@ public class Main {
 	}
 	
 	private static void displayGreetings(){
-		System.out.println("welcome to Sales");
+		System.out.println("welcome to Sales Data");
 	}
 }
